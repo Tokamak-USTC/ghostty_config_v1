@@ -1,0 +1,27 @@
+macos-option-as-alt = true
+clipboard-read = allow
+clipboard-paste-protection = false
+
+fullscreen = true
+
+mouse-hide-while-typing = true
+
+theme = tokyonight_night
+
+custom-shader = ./shaders/cursor_warp_quad.glsl
+cursor-opacity = 0.0
+cursor-text = cell-foreground
+
+font-size = 15
+
+font-family = "JetBrainsMono NF"
+font-family = "Maple Mono NF CN"
+
+font-family-bold = "JetBrainsMono NF ExtraBold"
+font-family-bold = "Maple Mono NF CN ExtraBold"
+
+font-family-bold = "JetBrainsMono NF Italic"
+font-family-bold = "Maple Mono NF CN Italic"
+
+font-family-bold-italic = "JetBrainsMono NF ExtraBold Italic"
+font-family-bold-italic = "Maple Mono NF CN ExtraBold Italic"
